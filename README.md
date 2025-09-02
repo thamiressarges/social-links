@@ -1,6 +1,6 @@
 # 🌐 Social Links – Meu Hub Pessoal de Contatos  
 
-![Banner do projeto](./images/social_links_cover)
+![Banner do projeto](./images/social_links_cover.png)
 
 Criei este projeto como uma forma prática e visual de centralizar meus principais links profissionais e de contato.  
 A ideia foi desenvolver uma página simples, responsiva e elegante que funcione como um **cartão de visitas digital**.  
